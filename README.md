@@ -1,1 +1,1 @@
-# react-getihub-explorer
+# react-github-explorer
